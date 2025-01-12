@@ -1,5 +1,52 @@
-
 *{
     margin: 0%;
     padding: 0%;
+ 
+}
+.navbar{
+   height: 50px;
+}
+.container{
+
+    border: 2px;
+    height: 500px; 
+    background-color: aquamarine;
+    background-size: contain;
+    display:flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+.box1{
+    text-align: left;
+    padding:10px 90px 10px 2px ;
+    font-size: large;
+
+}
+.light-gray-text {
+        color: #a58787;
+}
+.box2{
+    margin:10px 0px 10px 150px ;
+}
+.btn{
+        background-color: green; 
+        color: white; 
+        height: 55px;
+        width: 280px;
+        text-align: center; 
+        font-size: 24px; 
+        border-radius:8px;
+             
+ }
+ .btn:hover {
+    background-color: white; 
+    color: rgb(0, 2, 0);
+    transition: 0.4s;
+    height: 55px;
+    width: 280px;
+    cursor: pointer;
+
+
 }

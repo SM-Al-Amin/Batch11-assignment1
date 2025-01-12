@@ -20,8 +20,9 @@
 }
 .box1{
     text-align: left;
-    padding:10px 90px 10px 2px ;
+    padding:10px 120px 10px 2px ;
     font-size: large;
+    font-size: 125%;
 
 }
 .light-gray-text {
@@ -46,7 +47,7 @@
     transition: 0.4s;
     height: 55px;
     width: 280px;
-    cursor: pointer;
+    cursor: auto;
 
 
 }

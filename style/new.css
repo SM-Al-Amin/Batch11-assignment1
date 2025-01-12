@@ -47,7 +47,109 @@
     transition: 0.4s;
     height: 55px;
     width: 280px;
-    cursor: auto;
-
-
+    cursor: pointer;
 }
+.container2{
+    margin:2px ;
+    padding: 60px;
+    height:500px ;
+    background-color: rgb(238, 234, 229);
+    display: flex;
+    justify-content:space-evenly;
+    text-wrap:wrap;
+    text-align: left;
+}
+.h1{
+    text-align: left;
+}
+.Box3{
+    border:3px ;
+    color: #000;
+    background-color: rgb(140, 145, 212);
+    width: 200px;
+    margin: 5px;
+    padding: 75px;
+    text-align:left;
+    border-radius:8px;
+    text-align: center;
+    align-items: flex-end;
+}
+.Box4{
+    border:3px ;
+    color: #000;
+    background-color: rgb(164, 218, 171);
+    width: 200px;
+    margin: 5px;
+    padding:75px ;
+    text-align:left;
+    border-radius:8px;
+    align-items: flex-end;
+}
+.Box5{
+    border:3px ;
+    color: #000;
+    background-color: rgb(214, 210, 185);
+    width: 200px;
+    margin: 5px;
+    padding: 75px;
+    text-align:left;
+    border-radius:8px;
+    align-items: flex-end;
+    
+}
+.btn1{
+        background-color: rgb(49, 15, 238); 
+        color: white; 
+        height: 35px;
+        width: 200px;;
+        text-align: center; 
+        font-size: 24px; 
+        border-radius:8px;
+             
+ }
+.btn1:hover {
+    background-color: white; 
+    color: rgb(0, 2, 0);
+    transition: 0.4s;
+    height: 35px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: green; 
+    color: white; 
+    height: 35px;
+    width: 200px;
+    text-align: center; 
+    font-size: 24px; 
+    border-radius:8px;
+         
+}
+.btn2:hover {
+background-color: white; 
+color: rgb(0, 2, 0);
+transition: 0.4s;
+height: 35px;
+width: 200px;
+cursor: pointer;
+}
+.btn3{
+    background-color: rgb(226, 250, 7); 
+    color: white; 
+    height: 35px;
+    width: 200px;
+    text-align: center; 
+    font-size: 24px; 
+    border-radius:8px;
+         
+}
+.btn3:hover {
+background-color: white; 
+color: rgb(0, 2, 0);
+transition: 0.4s;
+height: 35px;
+width: 200px;
+cursor: pointer;
+}
+

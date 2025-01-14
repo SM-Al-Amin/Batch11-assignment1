@@ -327,8 +327,8 @@ cursor: pointer;
              }  
 .container6{    
     margin:2px ;
-    padding: 30px;
-    height:30px ;
+    padding: 45px;
+    height:50px ;
     align-items: center;
     background-color: rgb(253, 253, 253);
     display: flex;
@@ -341,10 +341,13 @@ cursor: pointer;
     align-items: center;
         text-align: center;
     margin: 1px solid black;
-
     height: 35px;
     width: 100%;
-}             
+}       
+.box15{
+    height:46px ;
+    width:360px;
+}      
 .btn11{
         align-items: center;
         text-align: center;
@@ -364,4 +367,86 @@ cursor: pointer;
         cursor: pointer;
      }  
 
-                    
+.newsletter-section {
+    background-color: #C6E4D6; 
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+
+  }
+  
+  .newsletter-section h2 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-weight: 800;
+    color:#0E0E0E;
+  }
+  
+  .newsletter-section p {
+    margin-bottom: 40px;
+    font-weight: 400;
+    color:#0e0e0e84 ; 
+  }
+  
+  .input-group {
+    display: flex;
+    justify-content: center;
+    margin-top:40px 0;
+  }
+  
+  .input-group input[type="email"] {
+    padding: 10px 15px;
+    border: 1px solid #0e0e0e6e;
+    border-radius: 10px;
+    width: 300px; 
+    margin-right: 10px; 
+    width: 35%;
+    padding: 15px;
+    font-size:20px;
+    border:none;
+    padding-left:25px;
+    margin-right: -9px!important;
+
+
+  }
+  
+.subscribe-btn {
+    background-color: #006A50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.note {
+    font-size: 16px;
+    color: #0E0E0E;
+    margin-top: 30px;
+  }
+  .footer-last {
+    padding: 20px 0; 
+    text-align: center;
+  }
+  
+  .footer-last h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social a {
+    margin: 50px 0;
+
+  }
+  
+  .social a img {
+    width: 20px; 
+    height: 20px; 
+    margin-right: 25px;
+  }
